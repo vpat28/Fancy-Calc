@@ -1,0 +1,17 @@
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Fancy Calc.exe
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Fancy Calc.deps.json
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Fancy Calc.runtimeconfig.json
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Fancy Calc.dll
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Fancy Calc.pdb
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\bin\Debug\net8.0\Figgle.dll
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.csproj.AssemblyReference.cache
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.AssemblyInfoInputs.cache
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.AssemblyInfo.cs
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.csproj.CoreCompileInputs.cache
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.csproj.Up2Date
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.dll
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\refint\Fancy Calc.dll
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.pdb
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\Fancy Calc.genruntimeconfig.cache
+C:\Users\jmffhrf\OneDrive - JM Family Enterprises\Documents\ITS Academy Projects\Fancy Calc\obj\Debug\net8.0\ref\Fancy Calc.dll
