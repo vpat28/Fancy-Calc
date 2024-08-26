@@ -211,7 +211,7 @@ class Program
         Console.WriteLine(calculatorbottom); // printing bottom part of calculator --> so equation is placed on the calculator display
         Console.WriteLine("Calculating...");
         //Printing another calculator, this time with the answer to the equation
-        System.Threading.Thread.Sleep(3000); Console.Write(calculatortop); //delaying the print by 3 seconds to give the appearance of calculating
+        System.Threading.Thread.Sleep(3000); Console.Clear(); Console.Write(calculatortop); //delaying the print by 3 seconds to give the appearance of calculating
         // Console.Write($"| |{resultString.PadLeft((18 + resultString.Length) / 2).PadRight(17)}| |"); // printing out the equation, and centering it
         Console.Write($"| |{resultString.PadLeft((18 + resultString.Length) / 2).PadRight(17).Substring(0, 17)}| |");
         Console.WriteLine(calculatorbottom); // printing bottom part of calculator --> so answer is placed on the calculator display
