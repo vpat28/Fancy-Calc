@@ -172,6 +172,10 @@ class Program
     public static void configCalc(string equation, double result) //method that takes in the equation and result and prints out both into their respective calculator aasci art
     {
         string resultString = result.ToString();
+        if (result == Double.PositiveInfinity || result == Double.NegativeInfinity)
+        {
+            resultString = "UNDEFINED";
+        }
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Yellow;
 
