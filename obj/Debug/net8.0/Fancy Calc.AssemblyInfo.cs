@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fancy Calc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741859303e30b0ea17150ddd6cf119ca5c1e5b24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fancy Calc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fancy Calc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

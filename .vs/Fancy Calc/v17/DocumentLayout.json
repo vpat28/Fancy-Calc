@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jmffhrf\\OneDrive - JM Family Enterprises\\Documents\\ITS Academy Projects\\Fancy Calc\\",
+  "WorkspaceRootPath": "C:\\Users\\jmfumej\\hbacademy\\temp\\Fancy-Calc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C35BE589-AE83-4B33-B082-ED61D1D47137}|Fancy Calc.csproj|c:\\users\\jmffhrf\\onedrive - jm family enterprises\\documents\\its academy projects\\fancy calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C35BE589-AE83-4B33-B082-ED61D1D47137}|Fancy Calc.csproj|c:\\users\\jmfumej\\hbacademy\\temp\\fancy-calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C35BE589-AE83-4B33-B082-ED61D1D47137}|Fancy Calc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jmffhrf\\OneDrive - JM Family Enterprises\\Documents\\ITS Academy Projects\\Fancy Calc\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmfumej\\hbacademy\\temp\\Fancy-Calc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jmffhrf\\OneDrive - JM Family Enterprises\\Documents\\ITS Academy Projects\\Fancy Calc\\Program.cs",
+              "ToolTip": "C:\\Users\\jmfumej\\hbacademy\\temp\\Fancy-Calc\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAuwM8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T03:11:26.463Z",
               "EditorCaption": ""
